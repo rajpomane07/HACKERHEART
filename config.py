@@ -6,7 +6,7 @@ API_HASH = getenv("API_HASH", "53103f2d622711bc2f10b59763c151d7") #optional
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5447310526").split()))
 OWNER_ID = int(getenv("OWNER_ID", "@BATTERY_ABOUT_TO_DAI_ERROR"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.q5lvfgg.mongodb.net/?retryWrites=true&w=majority"
-BOT_TOKEN = getenv("BOT_TOKEN", "5963859529:AAH0lImg0U6iBb8q3b4d2jl7HYQgFX-J0yY")
+BOT_TOKEN = getenv("BOT_TOKEN", "5690888432:AAGR744TylvRNH4Ztc3VruRcIqelLrzWfW0"
 ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/dee44cef6db27983dd8ab.jpg"
 ALIVE_TEXT = getenv("ALIVE_TEXT", "𝐓ᴇʀᴇ #🅺ᴀᴛɪʟ 𝐍ᴀᴢᴀʀ 𝐀ᴜʀ 𝐘ᴇ 🅰ᴅᴀᴀ||🅶ᴀɴᴅ 𝐌ᴇ 🅳ᴀᴀʟ 𝐀ᴜʀ 𝐌ᴀ #🅲ʜᴜᴅᴀ"
 PM_LOGGER = getenv("PM_LOGGER", "-1001693276872"
